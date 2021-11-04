@@ -1,0 +1,3 @@
+codeigniter 
+file upload
+ajax
